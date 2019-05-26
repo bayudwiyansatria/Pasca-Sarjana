@@ -31,58 +31,48 @@
 
 # Master's Degree
 
-Master's Degree Program in Informatics and Computer.
+Master's Degree Program in Informatics and Computer,
 Electronic Engineering Polytechnic Institute of Surabaya.
 
-Bayu Dwiyan Satria
+Author	: Bayu Dwiyan Satria
 
-NRP : 2020181005
+NRP		: 2020181005
 
-Email : bayudwiyansatria@pasca.student.pens.ac.id
+Contact : **bayudwiyansatria@gmail.com** or **bayudwiyansatria@pasca.student.pens.ac.id**
 
-## Description
+Site	: https://bayudwiyansatria.github.io/pascasarjana or https://bayudwiyansatria.pasca.student.pens.ac.id
 
-This Repositories Work as Submodule. 
-All projects dependencies can be clone and download belong to another repositories.
-See projects alternative link below for project that link to repositories.
-Click the module is support too.
-All Project By Pascasarjana is linked by this repositories, Feel Free To Pull a Request and Contribute to This Repositories.
+## Requirements
 
-~~ Cheers ~~
+* Windows 10.
 
-## Alternative Link
+* Visual Studio
+- Algorithm and Programming
+- Computer Vision
 
-Support Link
+* IntelliJ IDEA
+- AI and Pattern Recognation
 
-** Documentation **
+## Installation
+Visual Studio 2017 Community
+
 ```
-https://bayudwiyansatria.github.io/pascasarjana
-```
-
-** You Tube Channel **
-```
-https://www.youtube.com/channel/UCihxWj1rtheK73mGdrf0OiA
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15
 ```
 
-
-** Full Project Denpedencies **
+Visual Studio 2017 Professional
 ```
-https://github.com/bayudwiyansatria/full-pasca-sarjana
-```
-
-**AI and Pattern**
-```
-https://github.com/bayudwiyansatria/ai-and-pattern
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&rel=15
 ```
 
-**Algorithm and Programming**
+Visual Studio 2017 Enterprise
 ```
-https://github.com/bayudwiyansatria/algorithm-and-programming
+https://visualstudio.microsoft.com/vs/enterprise/
 ```
 
-**Computer Vision**
+IntelliJ IDEA
 ```
-https://github.com/bayudwiyansatria/computer-vision
+https://www.jetbrains.com/idea/download/
 ```
 
 ## Usage
