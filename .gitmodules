@@ -1,0 +1,9 @@
+[submodule "Computer-Vision"]
+	path = Computer-Vision
+	url = https://github.com/bayudwiyansatria/Computer-Vision.git
+[submodule "Algorithm-And-Programming"]
+	path = Algorithm-And-Programming
+	url = https://github.com/bayudwiyansatria/Algorithm-And-Programming.git
+[submodule "AI-And-Pattern-Recognition"]
+	path = AI-And-Pattern-Recognition
+	url = https://github.com/bayudwiyansatria/AI-And-Pattern-Recognition.git
