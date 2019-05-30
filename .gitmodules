@@ -7,3 +7,6 @@
 [submodule "AI-And-Pattern-Recognition"]
 	path = AI-And-Pattern-Recognition
 	url = https://github.com/bayudwiyansatria/AI-And-Pattern-Recognition.git
+[submodule "Network-Security-Management"]
+	path = Network-Security-Management
+	url = https://github.com/bayudwiyansatria/Network-Security-Management.git
