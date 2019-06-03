@@ -1,12 +1,16 @@
 [submodule "Computer-Vision"]
 	path = Computer-Vision
 	url = git@github.com:bayudwiyansatria/Computer-Vision.git
+	master = master
 [submodule "Algorithm-And-Programming"]
 	path = Algorithm-And-Programming
 	url = git@github.com:bayudwiyansatria/Algorithm-And-Programming.git
+	master = master
 [submodule "AI-And-Pattern-Recognition"]
 	path = AI-And-Pattern-Recognition
 	url = git@github.com:bayudwiyansatria/AI-And-Pattern-Recognition.git
+	master = master
 [submodule "Network-Security-Management"]
 	path = Network-Security-Management
 	url = git@github.com:bayudwiyansatria/Network-Security-Management.git
+	master = master
